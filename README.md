@@ -1,5 +1,5 @@
 # Coding-Interview-Practice
-Coding Interview Practice Problems of following patterns:
+Coding Interview practice problems of the following patterns:
 ## 1. Pattern: Sliding Window
 - Maximum Sum Subarray of Size K (easy)
 - Smallest Subarray with a given sum (easy)
