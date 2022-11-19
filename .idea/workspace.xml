@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Coding Interview Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Coding Interview Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grind 75 questions/Array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grind 75 questions/Array.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grind 75 questions/Binary Search Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grind 75 questions/Binary Search Tree.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <workItem from="1668659630044" duration="95000" />
       <workItem from="1668659876677" duration="675000" />
       <workItem from="1668694109061" duration="2771000" />
-      <workItem from="1668862381219" duration="1496000" />
+      <workItem from="1668862381219" duration="5839000" />
     </task>
     <servers />
   </component>
