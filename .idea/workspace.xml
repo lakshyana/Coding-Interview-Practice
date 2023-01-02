@@ -58,7 +58,10 @@
       <workItem from="1668694109061" duration="2771000" />
       <workItem from="1668862381219" duration="6365000" />
       <workItem from="1668898927668" duration="600000" />
-      <workItem from="1668954507031" duration="8264000" />
+      <workItem from="1668954507031" duration="9725000" />
+      <workItem from="1669000552573" duration="12000" />
+      <workItem from="1669587440456" duration="201000" />
+      <workItem from="1672504856383" duration="101000" />
     </task>
     <servers />
   </component>
@@ -75,5 +78,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/NFT Build Change/Desktop/Coding Interview Practice/Grind 75 questions/Array.ipynb</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
