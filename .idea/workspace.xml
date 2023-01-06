@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grind 75 questions/Array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grind 75 questions/Array.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +60,7 @@
       <workItem from="1669587440456" duration="201000" />
       <workItem from="1672504856383" duration="101000" />
       <workItem from="1672635933513" duration="1250000" />
+      <workItem from="1672694622318" duration="644000" />
     </task>
     <servers />
   </component>
