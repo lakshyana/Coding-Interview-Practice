@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Grind 75 questions/Arrays and Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grind 75 questions/Arrays and Strings.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +62,7 @@
       <workItem from="1672635933513" duration="1250000" />
       <workItem from="1672694622318" duration="644000" />
       <workItem from="1672979331303" duration="683000" />
+      <workItem from="1673845989203" duration="104000" />
     </task>
     <servers />
   </component>
