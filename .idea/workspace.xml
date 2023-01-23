@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="" />
+    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grind 75 questions/.ipynb_checkpoints/Arrays and Strings-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grind 75 questions/.ipynb_checkpoints/Arrays and Strings-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grind 75 questions/Arrays and Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grind 75 questions/Arrays and Strings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grind 75 questions/img/lc238.png" beforeDir="false" afterPath="$PROJECT_DIR$/Grind 75 questions/img/lc238.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +72,8 @@
       <workItem from="1674069270182" duration="59000" />
       <workItem from="1674239616338" duration="61000" />
       <workItem from="1674475617521" duration="217000" />
+      <workItem from="1674488002658" duration="51000" />
+      <workItem from="1674488930055" duration="1193000" />
     </task>
     <servers />
   </component>
