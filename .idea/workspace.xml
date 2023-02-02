@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/3 Binary Search-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/3 Binary Search-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Binary Search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3 Binary Search.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="90560ae9-9926-4e15-a387-b8966a1f0255" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +73,7 @@
       <workItem from="1674647746207" duration="2806000" />
       <workItem from="1674786787946" duration="62000" />
       <workItem from="1674790584784" duration="1325000" />
+      <workItem from="1674999809220" duration="836000" />
     </task>
     <servers />
   </component>
