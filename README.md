@@ -1,6 +1,7 @@
 # Coding-Interview-Practice
 Coding Interview practice problems of the following patterns:
 ## 1. Pattern: Sliding Window
+*(See: [`3-Sliding Window.ipynb`](3-Sliding%20Window.ipynb), also cross-referenced in [`2-Two Pointers.ipynb`](2-Two%20Pointers.ipynb))*
 - Maximum Sum Subarray of Size K (easy)
 - Smallest Subarray with a given sum (easy)
 - Longest Substring with K Distinct Characters (medium)
@@ -14,6 +15,7 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 4 - Words Concatenation (hard)
 
 ## 2. Pattern: Two Pointers
+*(See: [`2-Two Pointers.ipynb`](2-Two%20Pointers.ipynb), also [`Binary Search.ipynb`](Binary%20Search.ipynb))*
 - Pair with Target Sum (easy)
 - Remove Duplicates (easy)
 - Squaring a Sorted Array (easy)
@@ -36,6 +38,7 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 3 - Cycle in a Circular Array (hard) *
 
 ## 4. Pattern: Merge Intervals
+*(See: [`1-Arrays Strings and Hashing.ipynb`](1-Arrays%20Strings%20and%20Hashing.ipynb) — "Type: Intervals" section)*
 - Merge Intervals (medium)
 - Insert Interval (medium) *
 - Intervals Intersection (medium)
@@ -45,6 +48,7 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 3 - Employee Free Time (hard) *
 
 ## 5.Pattern: Cyclic Sort
+*(See: [`1-Arrays Strings and Hashing.ipynb`](1-Arrays%20Strings%20and%20Hashing.ipynb) — Missing Number)*
 - Cyclic Sort (easy)
 - Find the Missing Number (easy)
 - Find all Missing Numbers (easy)
@@ -73,6 +77,7 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 2 - Right View of a Binary Tree (easy)
 
 ## 8. Pattern: Tree Depth First Search
+*(See: [`Binary Search Tree.ipynb`](Binary%20Search%20Tree.ipynb) — Lowest Common Ancestor)*
 - Binary Tree Path Sum (easy)
 - All Paths for a Sum (medium) *
 - Sum of Path Numbers (medium)
@@ -99,6 +104,7 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 3 - Count of Structurally Unique Binary Search Trees (hard)
 
 ## 11. Pattern: Modified Binary Search
+*(See: [`Binary Search.ipynb`](Binary%20Search.ipynb))*
 - Order-agnostic Binary Search (easy)
 - Ceiling of a Number (medium) *
 - Next Letter (medium)
@@ -117,6 +123,7 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 1
 
 ## 13. Pattern Top 'K' Elements
+*(See: [`1-Arrays Strings and Hashing.ipynb`](1-Arrays%20Strings%20and%20Hashing.ipynb) — Top K Frequent Elements)*
 - Top 'K' Numbers (easy)
 - Kth Smallest Number (easy)
 - 'K' Closest Points to the Origin (easy)
@@ -140,6 +147,7 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 1 - K Pairs with Largest Sums (Hard)
 
 ## 15. Pattern : 0/1 Knapsack (Dynamic Programming)
+*(See: [`Dynamic Programming.ipynb`](Dynamic%20Programming.ipynb), also a stub in [`Binary Search Tree.ipynb`](Binary%20Search%20Tree.ipynb))*
 - 0/1 Knapsack (medium)
 - Equal Subset Sum Partition (medium) *
 - Subset Sum (medium)
@@ -158,4 +166,5 @@ Coding Interview practice problems of the following patterns:
 - Problem Challenge 2 - Minimum Height Trees (hard) *
 
 ## 17. Miscellaneous
+*(See: [`1-Arrays Strings and Hashing.ipynb`](1-Arrays%20Strings%20and%20Hashing.ipynb), [`Dynamic Programming.ipynb`](Dynamic%20Programming.ipynb) — Arrays/Hashing/Stack/classic-DP problems not covered by the 17 named patterns)*
 - Kth Smallest Number (hard) *
